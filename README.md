@@ -11,3 +11,33 @@ Key words: Organize, Structure, Prepare
 - ELT / ETL Processing
 - Data Load
 - Data Cleansing
+
+ETL Techniques / Methods
+1 Extraction 
+  1.1 Full / Batch
+  1.2 Incremental
+
+    Extraction Methods
+    - Manual Extraction
+    - Database Querying
+    - File Parsing
+    - API Calls
+    - Event Based Streaming
+    - CDC (Change Data Capture)
+    - Web Scraping
+
+2 Transformation
+- Data Enrichment
+- Data Integration
+- Derived Column
+- Data Normalization & Standardization
+- Business Rules and Logic
+- Data Aggregations
+- Data Cleansing
+  (a) Remove Duplicates
+  (b) Data Filtering
+  (c) Outlier Detection
+  (d) Data Type Casting
+  (e) Handling unwanted spaces or characters
+  (f) Handling missing data
+  (g) Handing invalid data

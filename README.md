@@ -14,7 +14,7 @@ Key words: Organize, Structure, Prepare
 
 ETL Techniques / Methods
 1 Extraction 
-  1.1 Full / Batch
+  1.1 Full
   1.2 Incremental
 
     Extraction Methods
@@ -41,3 +41,19 @@ ETL Techniques / Methods
   (e) Handling unwanted spaces or characters
   (f) Handling missing data
   (g) Handing invalid data
+
+3 Load
+Load processing types: (a) Batch (b) Streaming
+  3.1 Full
+    - Truncate & Insert
+    - Upsert
+    - Drop, Create, Insert
+  3.2 Incremental
+    - Upsert
+    - Append
+    - Merge
+
+SCD (Slowly Changing Dimensions)
+a. SCD0 - No historization
+b. SCD1 - Overwrite
+c. SCD2 - Histoization

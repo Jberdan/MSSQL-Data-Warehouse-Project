@@ -13,10 +13,14 @@ Key words: Organize, Structure, Prepare
 - Data Cleansing
 
 ETL Techniques / Methods
-1 Extraction 
+Extraction Types
   1.1 Full
   1.2 Incremental
 
+Extraction Methods
+  1.1 Pull
+  1.2 Push
+  
     Extraction Methods
     - Manual Extraction
     - Database Querying

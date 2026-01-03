@@ -21,7 +21,7 @@ Extraction Methods
   1.1 Pull
   1.2 Push
   
-    Extraction Methods
+    Extraction Techniques
     - Manual Extraction
     - Database Querying
     - File Parsing
